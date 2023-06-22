@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LinkArchive</string>
+    <string name="link_archive">Link Archive</string>
+    <string name="a_place_to_store_your_link_to_increase_your_productivity">A place to store your link to increase your productivity</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">sign up</string>
+    <string name="email">Email</string>
+    <string name="please_enter_your_sign_in_credentials">Please Enter Your Sign In Credentials</string>
+    <string name="please_enter_your_sign_up_credentials">Please Enter Your Sign Up Credentials</string>
+    <string name="password">Password</string>
+    <string name="hello">hello</string>
+    <string name="i_agree_to_the_t_c"><![CDATA[I agree to the T&C]]></string>
+    <string name="logout">Logout</string>
+    <string name="enter_link_name">Enter Link Name</string>
+    <string name="add">ADD</string>
+    <string name="delete">delete</string>
+</resources>

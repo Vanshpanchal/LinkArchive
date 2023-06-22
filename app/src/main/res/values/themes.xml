@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Day18" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/green1</item>
+        <item name="textInputFilledStyle">@color/green2</item>
+    </style>
+
+    <style name="MyTextInputLayout" parent="ThemeOverlay.Material3.TextInputEditText">
+        <!-- border color -->
+        <item name="boxStrokeColor">@color/green2</item>
+<item name="strokeColor">@color/green2</item>
+        <!-- The color of the label when it is collapsed and the text field is active -->
+
+    </style>
+    <style name="Theme.Day18" parent="Base.Theme.Day18" />
+</resources>
