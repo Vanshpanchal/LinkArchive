@@ -1,6 +1,8 @@
 # LinkArchive 
 ![icon](https://github.com/Vanshpanchal/LinkArchive/assets/83567205/cace622d-0ddc-469a-a93e-32e378b5e77f)
 
+[Download APK From Here](https://github.com/Vanshpanchal/LinkArchive/blob/065972b7340503a578085f2818dc0240ff9aacfb/LinkArchive.apk)
+
 LinkArchive is an Android Kotlin app that allows users to store important URL resources in one place, thereby enhancing productivity. The app provides modules for signup, signin, logout, reset password, and utilizes Firebase Authentication with email and password. It also utilizes Firebase Firestore as a database to store the data.
 
 ## Features
